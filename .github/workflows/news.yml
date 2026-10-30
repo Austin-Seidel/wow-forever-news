@@ -1,0 +1,46 @@
+name: WoW Forever News
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 min (GitHub may run it a few minutes late)
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+    inputs:
+      mode:
+        description: "normal, test (send a test message), or dry-run"
+        default: normal
+
+permissions:
+  contents: write             # to save which articles were already posted
+
+concurrency:
+  group: wow-forever-news
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TZ: America/Los_Angeles                              # posting times are Pacific
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run bot
+        run: |
+          case "${{ github.event.inputs.mode }}" in
+            test)    python wow_forever_webhook.py --test ;;
+            dry-run) python wow_forever_webhook.py --dry-run ;;
+            *)       python wow_forever_webhook.py ;;
+          esac
+      - name: Save state
+        run: |
+          if [ -n "$(git status --porcelain wow_forever_seen.json)" ]; then
+            git config user.name "wow-forever-bot"
+            git config user.email "wow-forever-bot@users.noreply.github.com"
+            git add wow_forever_seen.json
+            git commit -m "Update posted-articles list"
+            git push
+          fi
