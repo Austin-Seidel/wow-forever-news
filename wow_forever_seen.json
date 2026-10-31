@@ -35,15 +35,19 @@
   "https://www.wowhead.com/news=383648/the-wow-forever-podcast-episode-6-now-available-tech-and-community-building",
   "https://www.wowhead.com/news=383650/blizzard-working-on-top-layering-issues-in-wow-forever",
   "https://www.wowhead.com/news=383653/return-to-azeroth-recap-for-world-of-warcraft-forever",
-  "https://www.wowhead.com/news=383649/forced-world-refreshes-will-be-significantly-reduced-for-wow-forever"
+  "https://www.wowhead.com/news=383649/forced-world-refreshes-will-be-significantly-reduced-for-wow-forever",
+  "https://www.wowhead.com/news=383574/repeatable-quest-experience-exploit-fixed-for-wow-forever-launch"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383652/blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-wow-forever": "2026-10-30T15:27:50.202333-07:00",
   "https://www.wowhead.com/news=383664/wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs": "2026-10-30T15:27:50.202333-07:00",
   "https://www.wowhead.com/news=383669/over-8-million-characters-were-created-in-the-wow-forever-beta": "2026-10-30T15:27:50.202333-07:00",
-  "https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever": "2026-10-30T18:44:24.040652-07:00"
+  "https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever": "2026-10-30T18:44:24.040652-07:00",
+  "https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon": "2026-10-31T11:43:33.816358-07:00"
  },
  "day": "2026-10-31",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 1,
+ "slots_used": [
+  9
+ ]
 }
