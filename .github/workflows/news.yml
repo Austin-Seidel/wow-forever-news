@@ -2,7 +2,12 @@ name: WoW Forever News
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min (GitHub may run it a few minutes late)
+    # GitHub's schedules are best-effort and often skip runs at busy times like
+    # :00 and :15, so the times below use quieter minutes.
+    - cron: "7,22,37,52 * * * *"          # regular checks for breaking news
+    # Extra runs right after each posting time (9am / 2pm / 7pm Pacific).
+    # Hours are UTC and cover both daylight (PDT) and standard (PST) time.
+    - cron: "4,13,26,41 16,17,21,22,2,3 * * *"
   workflow_dispatch:          # lets you run it by hand from the Actions tab
     inputs:
       mode:

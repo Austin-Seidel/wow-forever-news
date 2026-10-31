@@ -29,7 +29,7 @@ import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 # ─────────────────────────── CONFIG ───────────────────────────
@@ -70,6 +70,12 @@ MATCH_SUMMARY = False
 # these local hours (24h clock). 3 slots = at most 3 posts a day.
 POST_HOURS = [9, 14, 19]
 MAX_PER_DAY = 3
+# If runs were skipped and several posting times were missed, post at most this
+# many at once while catching up.
+MAX_PER_RUN = 2
+# The posting "day" starts at this hour, so a late-running 7pm slot after
+# midnight still counts for the previous day.
+DAY_START_HOUR = 3
 # An article must score at least this to be posted at all. On a slow day
 # fewer than 3 go out. Raise it for fewer posts, lower it for more.
 MIN_SCORE = 2
@@ -338,7 +344,10 @@ def main():
     items = collect()
     st = load_state()
     now = datetime.now().astimezone()
-    today = now.date().isoformat()
+    # The bot's "day" runs from 3am to 3am, so a 7pm post that GitHub runs
+    # late (even after midnight) still counts as yesterday's 7pm slot.
+    late_night = now.hour < DAY_START_HOUR
+    today = (now - timedelta(hours=DAY_START_HOUR)).date().isoformat()
     if st["day"] != today:                     # new day: reset the counters
         st.update(day=today, posted_today=0, slots_used=[])
 
@@ -364,37 +373,45 @@ def main():
         log(f"Seeded: marked {len(candidates)} articles as seen.")
         return
 
-    # Which posting slot are we in? (latest POST_HOUR that has passed today)
-    passed = [h for h in POST_HOURS if h <= now.hour]
-    slot = max(passed) if passed else None
-    slot_open = slot is not None and slot not in st["slots_used"]
-    room = MAX_PER_DAY - st["posted_today"]
+    # Posting times that have passed today but haven't been used yet. If GitHub
+    # skipped a run, the missed slot is caught up on the next run.
+    passed = POST_HOURS if late_night else [h for h in POST_HOURS if h <= now.hour]
+    open_slots = [h for h in passed if h not in st["slots_used"]]
 
-    pick = None
-    if room > 0 and candidates and candidates[0]["score"] >= MIN_SCORE:
-        top = candidates[0]
-        if slot_open or top["score"] >= BREAKING_SCORE:
-            pick = top
+    pool = [i for i in candidates if i["score"] >= MIN_SCORE]
+    picks = []   # (article, slot it uses or None for breaking news)
+    while pool and st["posted_today"] + len(picks) < MAX_PER_DAY and len(picks) < MAX_PER_RUN:
+        top = pool[0]
+        if open_slots:
+            picks.append((top, open_slots.pop(0)))
+        elif top["score"] >= BREAKING_SCORE:
+            picks.append((top, None))
+        else:
+            break
+        pool = [i for i in pool if i is not top and not same_story(i, top)]
 
     if args.dry_run:
-        print(f"\nPosted today: {st['posted_today']}/{MAX_PER_DAY}   current slot: {slot}   open: {slot_open}")
+        print(f"\nPosted today: {st['posted_today']}/{MAX_PER_DAY}   open slots: {open_slots + [s for _, s in picks if s]}")
         print("Candidates by score:")
+        chosen = [p for p, _ in picks]
         for i in candidates[:15]:
-            flag = " <-- WOULD POST NOW" if i is pick else ""
+            flag = " <-- WOULD POST NOW" if i in chosen else ""
             print(f"  {i['score']:5.1f}  [{i['source']}] {i['title']}{flag}")
         return
 
-    if pick:
+    for pick, slot in picks:
         if send_discord(build_embed(pick)):
             st["posted_today"] += 1
-            if slot_open and pick["score"] < BREAKING_SCORE:
+            if slot is not None:
                 st["slots_used"].append(slot)
             # mark it AND the same story from other sites as done
             st["seen"] += [key_of(i) for i in candidates if i is pick or same_story(i, pick)]
-            log(f"Posted (score {pick['score']:.1f}): {pick['title']}")
+            log(f"Posted (score {pick['score']:.1f}, slot {slot}): {pick['title']}")
+            time.sleep(1.5)
         else:
             log("Post failed; will retry next run.")
-    else:
+            break
+    if not picks:
         log(f"Nothing posted this run ({len(candidates)} waiting, {st['posted_today']}/{MAX_PER_DAY} posted today).")
 
     save_state(st)
