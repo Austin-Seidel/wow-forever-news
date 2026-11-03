@@ -44,16 +44,18 @@
   "https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon",
   "https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch",
   "https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november",
-  "https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning"
+  "https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning",
+  "https://www.wowhead.com/news=383711/watch-the-world-of-warcraft-forever-launch-overview"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever": "2026-11-02T18:26:24.668062-08:00"
+  "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever": "2026-11-02T18:26:24.668062-08:00",
+  "https://blizzardwatch.com/2026/11/03/speedy-warcraft-maintenance-day-now-added-wow-forever-maintenance/": "2026-11-03T09:43:48.196574-08:00",
+  "https://www.wowhead.com/news=383692/bonus-experience-and-extra-bags-for-purchase-on-cn-wow-forever-servers": "2026-11-03T09:43:48.196574-08:00",
+  "https://www.wowhead.com/news=383710/shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-forever": "2026-11-03T09:43:48.196574-08:00"
  },
- "day": "2026-11-02",
- "posted_today": 3,
+ "day": "2026-11-03",
+ "posted_today": 1,
  "slots_used": [
-  9,
-  14,
-  19
+  9
  ]
 }
