@@ -43,15 +43,17 @@
   "https://www.wowhead.com/news=383669/over-8-million-characters-were-created-in-the-wow-forever-beta",
   "https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon",
   "https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch",
-  "https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november"
+  "https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november",
+  "https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever": "2026-11-02T18:26:24.668062-08:00"
  },
  "day": "2026-11-02",
- "posted_today": 2,
+ "posted_today": 3,
  "slots_used": [
   9,
-  14
+  14,
+  19
  ]
 }
