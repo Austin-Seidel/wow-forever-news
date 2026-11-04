@@ -47,21 +47,23 @@
   "https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning",
   "https://www.wowhead.com/news=383711/watch-the-world-of-warcraft-forever-launch-overview",
   "https://www.wowhead.com/news=383714/wowheads-talent-calculator-for-wow-forever-updated-for-launch-class-changes",
-  "https://blizzardwatch.com/2026/11/03/speedy-warcraft-maintenance-day-now-added-wow-forever-maintenance/"
+  "https://blizzardwatch.com/2026/11/03/speedy-warcraft-maintenance-day-now-added-wow-forever-maintenance/",
+  "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever",
+  "https://blizzardwatch.com/2026/11/04/whats-plan-imminent-world-warcraftforever-launch-day/"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever": "2026-11-02T18:26:24.668062-08:00",
   "https://www.wowhead.com/news=383692/bonus-experience-and-extra-bags-for-purchase-on-cn-wow-forever-servers": "2026-11-03T09:43:48.196574-08:00",
   "https://www.wowhead.com/news=383710/shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-forever": "2026-11-03T09:43:48.196574-08:00",
   "https://www.wowhead.com/news=383712/whats-new-and-whats-the-same-in-wow-forever": "2026-11-03T13:41:11.593215-08:00",
   "https://www.wowhead.com/news=383716/tier-pieces-require-quest-chain-that-requires-group-content-in-wow-forever": "2026-11-03T13:41:11.593215-08:00",
-  "https://www.wowhead.com/news=383720/wow-forever-officially-supports-gamepads": "2026-11-03T13:41:11.593215-08:00"
+  "https://www.wowhead.com/news=383720/wow-forever-officially-supports-gamepads": "2026-11-03T13:41:11.593215-08:00",
+  "https://www.wowhead.com/news=383728/when-does-wow-forever-launch-globally": "2026-11-04T09:56:40.562867-08:00",
+  "https://www.wowhead.com/news=383727/every-guide-youll-need-for-launch-the-wow-forever-guide-compendium": "2026-11-04T09:56:40.562867-08:00",
+  "https://www.wowhead.com/news=383725/did-blizzard-tease-future-wow-forever-class-and-race-combinations": "2026-11-04T09:56:40.562867-08:00"
  },
- "day": "2026-11-03",
- "posted_today": 3,
+ "day": "2026-11-04",
+ "posted_today": 1,
  "slots_used": [
-  9,
-  14,
-  19
+  9
  ]
 }
