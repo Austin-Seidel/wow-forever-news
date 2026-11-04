@@ -49,7 +49,8 @@
   "https://www.wowhead.com/news=383714/wowheads-talent-calculator-for-wow-forever-updated-for-launch-class-changes",
   "https://blizzardwatch.com/2026/11/03/speedy-warcraft-maintenance-day-now-added-wow-forever-maintenance/",
   "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever",
-  "https://blizzardwatch.com/2026/11/04/whats-plan-imminent-world-warcraftforever-launch-day/"
+  "https://blizzardwatch.com/2026/11/04/whats-plan-imminent-world-warcraftforever-launch-day/",
+  "https://www.wowhead.com/news=383749/world-of-warcraft-forever-is-now-live"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383692/bonus-experience-and-extra-bags-for-purchase-on-cn-wow-forever-servers": "2026-11-03T09:43:48.196574-08:00",
@@ -63,11 +64,14 @@
   "https://blizzardwatch.com/2026/11/04/world-warcraft-forever-servers-yet-absolutely-not/": "2026-11-04T13:49:33.664045-08:00",
   "https://www.wowhead.com/news=383738/new-nvidia-drivers-for-world-of-warcraft-forever": "2026-11-04T13:49:33.664045-08:00",
   "https://www.wowhead.com/news=383741/wow-forever-development-notes-updated-ui-and-accessibility-updates": "2026-11-04T13:49:33.664045-08:00",
-  "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever": "2026-11-04T13:49:33.664045-08:00"
+  "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever": "2026-11-04T13:49:33.664045-08:00",
+  "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary": "2026-11-04T15:34:21.808426-08:00",
+  "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever": "2026-11-04T15:34:21.808426-08:00"
  },
  "day": "2026-11-04",
- "posted_today": 1,
+ "posted_today": 2,
  "slots_used": [
-  9
+  9,
+  14
  ]
 }
