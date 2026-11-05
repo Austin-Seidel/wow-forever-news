@@ -56,7 +56,8 @@
   "https://www.wowhead.com/news=383710/shaman-classic-discord-closed-in-protest-of-shaman-changes-in-wow-forever",
   "https://www.wowhead.com/news=383712/whats-new-and-whats-the-same-in-wow-forever",
   "https://www.wowhead.com/news=383716/tier-pieces-require-quest-chain-that-requires-group-content-in-wow-forever",
-  "https://www.wowhead.com/news=383720/wow-forever-officially-supports-gamepads"
+  "https://www.wowhead.com/news=383720/wow-forever-officially-supports-gamepads",
+  "https://www.wowhead.com/news=383760/wo-w-forever-known-issues"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383727/every-guide-youll-need-for-launch-the-wow-forever-guide-compendium": "2026-11-04T09:56:40.562867-08:00",
@@ -66,9 +67,13 @@
   "https://www.wowhead.com/news=383741/wow-forever-development-notes-updated-ui-and-accessibility-updates": "2026-11-04T13:49:33.664045-08:00",
   "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever": "2026-11-04T13:49:33.664045-08:00",
   "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary": "2026-11-04T15:34:21.808426-08:00",
-  "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever": "2026-11-04T15:34:21.808426-08:00"
+  "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever": "2026-11-04T15:34:21.808426-08:00",
+  "https://www.wowhead.com/news=383754/earn-700-discord-orbs-with-new-wow-forever-quest": "2026-11-05T11:04:05.867142-08:00",
+  "https://www.wowhead.com/news=383769/new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wow-forever": "2026-11-05T11:04:05.867142-08:00"
  },
  "day": "2026-11-05",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 1,
+ "slots_used": [
+  9
+ ]
 }
