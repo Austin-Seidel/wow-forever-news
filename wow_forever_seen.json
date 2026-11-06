@@ -64,22 +64,19 @@
   "https://blizzardwatch.com/2026/11/04/world-warcraft-forever-servers-yet-absolutely-not/",
   "https://www.wowhead.com/news=383738/new-nvidia-drivers-for-world-of-warcraft-forever",
   "https://www.wowhead.com/news=383778/wow-forever-hotfixes-november-5-2026-world-of-warcraft-blizzard-news",
-  "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever"
+  "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever",
+  "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
+  "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary": "2026-11-04T15:34:21.808426-08:00",
-  "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever": "2026-11-04T15:34:21.808426-08:00",
   "https://www.wowhead.com/news=383754/earn-700-discord-orbs-with-new-wow-forever-quest": "2026-11-05T11:04:05.867142-08:00",
   "https://www.wowhead.com/news=383769/new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wow-forever": "2026-11-05T11:04:05.867142-08:00",
   "https://blizzardwatch.com/2026/11/05/twitch-drops-blizzard/": "2026-11-05T13:55:29.771789-08:00",
   "https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever": "2026-11-05T13:55:29.771789-08:00",
-  "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow": "2026-11-05T16:08:20.329886-08:00"
+  "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow": "2026-11-05T16:08:20.329886-08:00",
+  "https://www.wowhead.com/news=383768/every-quest-for-dungeons-up-to-level-20-in-wow-forever": "2026-11-06T06:56:48.751010-08:00"
  },
- "day": "2026-11-05",
- "posted_today": 3,
- "slots_used": [
-  9,
-  14,
-  19
- ]
+ "day": "2026-11-06",
+ "posted_today": 0,
+ "slots_used": []
 }
