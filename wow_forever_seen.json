@@ -66,7 +66,8 @@
   "https://www.wowhead.com/news=383778/wow-forever-hotfixes-november-5-2026-world-of-warcraft-blizzard-news",
   "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever",
   "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
-  "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever"
+  "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever",
+  "https://www.wowhead.com/news=383770/four-new-key-art-pieces-for-wow-forever-launch"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383754/earn-700-discord-orbs-with-new-wow-forever-quest": "2026-11-05T11:04:05.867142-08:00",
@@ -74,9 +75,16 @@
   "https://blizzardwatch.com/2026/11/05/twitch-drops-blizzard/": "2026-11-05T13:55:29.771789-08:00",
   "https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever": "2026-11-05T13:55:29.771789-08:00",
   "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow": "2026-11-05T16:08:20.329886-08:00",
-  "https://www.wowhead.com/news=383768/every-quest-for-dungeons-up-to-level-20-in-wow-forever": "2026-11-06T06:56:48.751010-08:00"
+  "https://www.wowhead.com/news=383768/every-quest-for-dungeons-up-to-level-20-in-wow-forever": "2026-11-06T06:56:48.751010-08:00",
+  "https://www.wowhead.com/news=383772/new-battle-net-icons-for-wow-forever": "2026-11-06T12:50:07.274478-08:00",
+  "https://www.wowhead.com/news=383782/major-qol-update-to-popular-alliance-quest-in-wow-forever": "2026-11-06T12:50:07.274478-08:00",
+  "https://www.wowhead.com/news=383784/the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-taldramir": "2026-11-06T12:50:07.274478-08:00",
+  "https://www.wowhead.com/news=383785/shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-classic": "2026-11-06T12:50:07.274478-08:00",
+  "https://www.wowhead.com/news=383786/minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever": "2026-11-06T12:50:07.274478-08:00"
  },
  "day": "2026-11-06",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 1,
+ "slots_used": [
+  9
+ ]
 }
