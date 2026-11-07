@@ -67,7 +67,8 @@
   "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever",
   "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
   "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever",
-  "https://www.wowhead.com/news=383770/four-new-key-art-pieces-for-wow-forever-launch"
+  "https://www.wowhead.com/news=383770/four-new-key-art-pieces-for-wow-forever-launch",
+  "https://www.wowhead.com/news=383787/raid-rewards-and-pvp-balance-crix-interview-on-wow-forever"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383754/earn-700-discord-orbs-with-new-wow-forever-quest": "2026-11-05T11:04:05.867142-08:00",
@@ -81,12 +82,12 @@
   "https://www.wowhead.com/news=383784/the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-taldramir": "2026-11-06T12:50:07.274478-08:00",
   "https://www.wowhead.com/news=383785/shaman-talents-revisited-early-next-year-blizzard-addresses-shaman-classic": "2026-11-06T12:50:07.274478-08:00",
   "https://www.wowhead.com/news=383786/minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever": "2026-11-06T12:50:07.274478-08:00",
-  "https://www.wowhead.com/news=383787/raid-rewards-and-pvp-balance-crix-interview-on-wow-forever": "2026-11-06T13:27:20.408854-08:00",
   "https://www.wowhead.com/news=383790/upcoming-pet-changes-for-hunters-and-warlocks-in-wow-forever-upcoming-class": "2026-11-06T13:27:20.408854-08:00"
  },
  "day": "2026-11-06",
- "posted_today": 1,
+ "posted_today": 2,
  "slots_used": [
-  9
+  9,
+  14
  ]
 }
