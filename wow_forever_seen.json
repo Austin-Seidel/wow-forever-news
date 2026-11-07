@@ -74,7 +74,8 @@
   "https://www.wowhead.com/news=383769/new-prerequisites-required-for-ruins-of-lordaeron-dungeon-quests-in-wow-forever",
   "https://blizzardwatch.com/2026/11/05/twitch-drops-blizzard/",
   "https://www.wowhead.com/news=383771/blizzard-investigating-issues-with-certain-escort-quests-in-wow-forever",
-  "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow"
+  "https://www.wowhead.com/news=383774/minimum-deposit-of-1-silver-required-to-list-items-at-auction-house-in-wow",
+  "https://www.wowhead.com/news=383781/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383768/every-quest-for-dungeons-up-to-level-20-in-wow-forever": "2026-11-06T06:56:48.751010-08:00",
@@ -88,6 +89,8 @@
   "https://www.wowhead.com/news=383797/world-first-level-60s-in-wow-forever-in-less-than-three-days": "2026-11-06T22:30:20.820413-08:00"
  },
  "day": "2026-11-07",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 1,
+ "slots_used": [
+  9
+ ]
 }
