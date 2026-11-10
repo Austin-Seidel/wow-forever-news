@@ -91,14 +91,17 @@
   "https://www.wowhead.com/news=383803/quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-according-to",
   "https://www.wowhead.com/news=383801/level-faster-with-your-cozy-sleeping-bag-in-wow-forever",
   "https://www.wowhead.com/news=383815/blizzard-taking-down-wow-forever-servers-shortly",
-  "https://www.wowhead.com/news=383819/drowned-city-nerfs-and-reduced-population-in-zones-wow-forever-hotfixes-for"
+  "https://www.wowhead.com/news=383819/drowned-city-nerfs-and-reduced-population-in-zones-wow-forever-hotfixes-for",
+  "https://blizzardwatch.com/2026/11/10/we-are-blessed-with-another-short-world-of-warcraft-maintenance-day/"
  ],
- "first_seen": {},
- "day": "2026-11-09",
- "posted_today": 3,
+ "first_seen": {
+  "https://www.wowhead.com/news=383813/new-dawn-waker-secret-found-in-wow-forever": "2026-11-10T10:10:38.516676-08:00",
+  "https://www.wowhead.com/news=383814/every-quest-for-level-20-to-30-dungeons-in-wow-forever": "2026-11-10T10:10:38.516676-08:00",
+  "https://www.wowhead.com/news=383145/secret-hunt-in-wow-forever-with-the-night-watchmans-torch": "2026-11-10T10:10:38.516676-08:00"
+ },
+ "day": "2026-11-10",
+ "posted_today": 1,
  "slots_used": [
-  9,
-  14,
-  19
+  9
  ]
 }
