@@ -93,7 +93,8 @@
   "https://www.wowhead.com/news=383815/blizzard-taking-down-wow-forever-servers-shortly",
   "https://www.wowhead.com/news=383819/drowned-city-nerfs-and-reduced-population-in-zones-wow-forever-hotfixes-for",
   "https://blizzardwatch.com/2026/11/10/we-are-blessed-with-another-short-world-of-warcraft-maintenance-day/",
-  "https://www.wowhead.com/news=383824/enhancement-shaman-class-weapon-hotfixed-on-wow-forever"
+  "https://www.wowhead.com/news=383824/enhancement-shaman-class-weapon-hotfixed-on-wow-forever",
+  "https://www.wowhead.com/news=383837/hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-for-november"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383813/new-dawn-waker-secret-found-in-wow-forever": "2026-11-10T10:10:38.516676-08:00",
@@ -106,9 +107,10 @@
   "https://www.wowhead.com/news=383833/blizzard-addressing-missing-shaman-totems-due-to-mondays-server-issue-in-wow": "2026-11-10T17:51:00.438936-08:00"
  },
  "day": "2026-11-10",
- "posted_today": 2,
+ "posted_today": 3,
  "slots_used": [
   9,
-  14
+  14,
+  19
  ]
 }
