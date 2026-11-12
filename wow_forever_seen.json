@@ -96,11 +96,12 @@
   "https://www.wowhead.com/news=383824/enhancement-shaman-class-weapon-hotfixed-on-wow-forever",
   "https://www.wowhead.com/news=383837/hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-for-november",
   "https://www.wowhead.com/news=383833/blizzard-addressing-missing-shaman-totems-due-to-mondays-server-issue-in-wow",
-  "https://www.wowhead.com/news=383826/warlock-and-hunter-class-tuning-now-live-in-wow-forever"
+  "https://www.wowhead.com/news=383826/warlock-and-hunter-class-tuning-now-live-in-wow-forever",
+  "https://www.wowhead.com/news=383813/new-dawn-waker-secret-found-in-wow-forever",
+  "https://www.wowhead.com/news=383814/every-quest-for-level-20-to-30-dungeons-in-wow-forever",
+  "https://www.wowhead.com/news=383848/tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november-11th-2026"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383813/new-dawn-waker-secret-found-in-wow-forever": "2026-11-10T10:10:38.516676-08:00",
-  "https://www.wowhead.com/news=383814/every-quest-for-level-20-to-30-dungeons-in-wow-forever": "2026-11-10T10:10:38.516676-08:00",
   "https://www.wowhead.com/news=383145/secret-hunt-in-wow-forever-with-the-night-watchmans-torch": "2026-11-10T10:10:38.516676-08:00",
   "https://www.wowhead.com/news=383828/vendor-price-changes-on-wow-forever-iron-grenade-shuffle-nerfed": "2026-11-10T13:45:54.251583-08:00",
   "https://www.wowhead.com/news=383831/dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-happy-with": "2026-11-10T15:31:14.830574-08:00",
@@ -111,9 +112,10 @@
   "https://www.wowhead.com/news=383825/explore-the-drowned-city-new-dungeon-in-wow-forever": "2026-11-11T10:08:24.204512-08:00"
  },
  "day": "2026-11-11",
- "posted_today": 2,
+ "posted_today": 3,
  "slots_used": [
   9,
-  14
+  14,
+  19
  ]
 }
