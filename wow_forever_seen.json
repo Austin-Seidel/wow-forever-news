@@ -103,7 +103,9 @@
   "https://www.wowhead.com/news=383145/secret-hunt-in-wow-forever-with-the-night-watchmans-torch",
   "https://www.wowhead.com/news=383828/vendor-price-changes-on-wow-forever-iron-grenade-shuffle-nerfed",
   "https://www.wowhead.com/news=383831/dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-happy-with",
-  "https://www.wowhead.com/news=383832/blizzard-adding-gold-to-many-quests-near-max-level-in-next-24-hours"
+  "https://www.wowhead.com/news=383832/blizzard-adding-gold-to-many-quests-near-max-level-in-next-24-hours",
+  "https://www.wowhead.com/news=383858/enhancement-shaman-class-changes-now-live",
+  "https://www.wowhead.com/news=383855/season-of-discoverys-scarlet-enclave-raid-to-return-in-wow-forever"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383827/which-darkmoon-faire-buff-should-you-pick-in-wow-forever": "2026-11-11T10:08:24.204512-08:00",
@@ -113,9 +115,14 @@
   "https://www.wowhead.com/news=383851/restoration-druid-change-to-wild-growth-in-wow-forever": "2026-11-11T23:48:38.967716-08:00",
   "https://www.wowhead.com/news=383818/catch-up-mechanics-and-the-economy-in-wow-forever-but-why-tho-interview": "2026-11-12T08:21:10.499430-08:00",
   "https://www.wowhead.com/news=383807/party-with-other-players-to-use-their-sleeping-bags-for-experience-buff-in-wow": "2026-11-12T08:21:10.499430-08:00",
-  "https://www.wowhead.com/news=383842/loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever": "2026-11-12T08:21:10.499430-08:00"
+  "https://www.wowhead.com/news=383842/loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever": "2026-11-12T08:21:10.499430-08:00",
+  "https://www.wowhead.com/news=383853/the-wow-forever-podcast-episode-7-now-available-lore-episode": "2026-11-12T14:11:55.791797-08:00",
+  "https://www.wowhead.com/news=383860/new-high-level-battle-mage-weapon-discovered-in-wow-forever": "2026-11-12T14:11:55.791797-08:00"
  },
  "day": "2026-11-12",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 2,
+ "slots_used": [
+  9,
+  14
+ ]
 }
