@@ -100,23 +100,19 @@
   "https://www.wowhead.com/news=383813/new-dawn-waker-secret-found-in-wow-forever",
   "https://www.wowhead.com/news=383814/every-quest-for-level-20-to-30-dungeons-in-wow-forever",
   "https://www.wowhead.com/news=383848/tailoring-bag-cost-and-size-changes-wow-forever-hotfixes-for-november-11th-2026",
-  "https://www.wowhead.com/news=383145/secret-hunt-in-wow-forever-with-the-night-watchmans-torch"
+  "https://www.wowhead.com/news=383145/secret-hunt-in-wow-forever-with-the-night-watchmans-torch",
+  "https://www.wowhead.com/news=383828/vendor-price-changes-on-wow-forever-iron-grenade-shuffle-nerfed",
+  "https://www.wowhead.com/news=383831/dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-happy-with",
+  "https://www.wowhead.com/news=383832/blizzard-adding-gold-to-many-quests-near-max-level-in-next-24-hours"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383828/vendor-price-changes-on-wow-forever-iron-grenade-shuffle-nerfed": "2026-11-10T13:45:54.251583-08:00",
-  "https://www.wowhead.com/news=383831/dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-happy-with": "2026-11-10T15:31:14.830574-08:00",
-  "https://www.wowhead.com/news=383832/blizzard-adding-gold-to-many-quests-near-max-level-in-next-24-hours": "2026-11-10T15:31:14.830574-08:00",
   "https://www.wowhead.com/news=383827/which-darkmoon-faire-buff-should-you-pick-in-wow-forever": "2026-11-11T10:08:24.204512-08:00",
   "https://blizzardwatch.com/2026/11/11/what-are-your-first-impressions-of-world-of-warcraft-forever/": "2026-11-11T10:08:24.204512-08:00",
   "https://www.wowhead.com/news=383829/gelkis-or-magram-which-to-pick-in-wow-forever": "2026-11-11T10:08:24.204512-08:00",
   "https://www.wowhead.com/news=383825/explore-the-drowned-city-new-dungeon-in-wow-forever": "2026-11-11T10:08:24.204512-08:00",
   "https://www.wowhead.com/news=383851/restoration-druid-change-to-wild-growth-in-wow-forever": "2026-11-11T23:48:38.967716-08:00"
  },
- "day": "2026-11-11",
- "posted_today": 3,
- "slots_used": [
-  9,
-  14,
-  19
- ]
+ "day": "2026-11-12",
+ "posted_today": 0,
+ "slots_used": []
 }
