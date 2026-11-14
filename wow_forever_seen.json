@@ -114,7 +114,8 @@
   "https://www.wowhead.com/news=383851/restoration-druid-change-to-wild-growth-in-wow-forever",
   "https://www.wowhead.com/news=383857/might-of-stormwind-world-buff-returns-in-wow-forever",
   "https://www.wowhead.com/news=383870/blizzard-taking-down-wow-forever-realms-in-30-minutes-to-fix-urgent-server-crash",
-  "https://www.wowhead.com/news=383818/catch-up-mechanics-and-the-economy-in-wow-forever-but-why-tho-interview"
+  "https://www.wowhead.com/news=383818/catch-up-mechanics-and-the-economy-in-wow-forever-but-why-tho-interview",
+  "https://www.wowhead.com/news=383876/many-fixes-to-dungeons-quests-enemies-and-classes-wow-forever-hotfixes-for"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383842/loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever": "2026-11-12T08:21:10.499430-08:00",
@@ -127,13 +128,13 @@
   "https://www.wowhead.com/news=383869/the-wow-forever-podcast-a-new-short-story-this-week-s-videos-and-more-wow-weekly": "2026-11-13T13:55:20.047030-08:00",
   "https://www.wowhead.com/news=383873/skyborne-dont-have-reputation-discount-for-mounts-in-wow-forever": "2026-11-13T13:55:20.047030-08:00",
   "https://blizzardwatch.com/2026/11/13/gold-is-not-a-quest-reward-in-wow-forever-at-level-60-but-will-be-more-available-from-higher-level-quests/": "2026-11-13T13:55:20.047030-08:00",
-  "https://www.wowhead.com/news=383849/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever": "2026-11-13T18:15:00.799771-08:00",
-  "https://www.wowhead.com/news=383876/many-fixes-to-dungeons-quests-enemies-and-classes-wow-forever-hotfixes-for": "2026-11-13T18:15:00.799771-08:00"
+  "https://www.wowhead.com/news=383849/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever": "2026-11-13T18:15:00.799771-08:00"
  },
  "day": "2026-11-13",
- "posted_today": 2,
+ "posted_today": 3,
  "slots_used": [
   9,
-  14
+  14,
+  19
  ]
 }
