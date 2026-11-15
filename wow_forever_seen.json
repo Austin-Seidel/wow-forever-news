@@ -129,12 +129,16 @@
   "https://www.wowhead.com/news=383861/new-dungeon-set-transforms-players-into-an-ogre-in-wow-forever",
   "https://www.wowhead.com/news=383873/skyborne-dont-have-reputation-discount-for-mounts-in-wow-forever",
   "https://blizzardwatch.com/2026/11/13/gold-is-not-a-quest-reward-in-wow-forever-at-level-60-but-will-be-more-available-from-higher-level-quests/",
-  "https://www.wowhead.com/news=383849/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever"
+  "https://www.wowhead.com/news=383849/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever",
+  "https://www.wowhead.com/news=383883/dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-levels-above"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383883/dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-levels-above": "2026-11-14T23:45:52.499964-08:00"
+  "https://www.wowhead.com/news=383879/an-old-sod-secret-has-new-rewards-in-wow-forever": "2026-11-15T12:19:24.859168-08:00",
+  "https://www.wowhead.com/news=383845/save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever": "2026-11-15T12:19:24.859168-08:00"
  },
  "day": "2026-11-15",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 1,
+ "slots_used": [
+  9
+ ]
 }
