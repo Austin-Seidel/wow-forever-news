@@ -122,21 +122,23 @@
   "https://www.wowhead.com/news=383862/dual-spec-bug-causes-empty-action-bars-after-logging-out",
   "https://www.wowhead.com/news=383846/new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever",
   "https://www.wowhead.com/news=383880/dungeon-mobs-grant-zero-experience-if-trivial-to-anyone-in-party",
-  "https://www.wowhead.com/news=383871/infiltrate-kroldok-stronghold-new-dungeon-in-wow-forever"
+  "https://www.wowhead.com/news=383871/infiltrate-kroldok-stronghold-new-dungeon-in-wow-forever",
+  "https://www.wowhead.com/news=383859/secret-disguise-toy-found-wow-forever",
+  "https://www.wowhead.com/news=383868/new-short-story-cost-of-honor-for-wow-forever",
+  "https://www.wowhead.com/news=383869/the-wow-forever-podcast-a-new-short-story-this-week-s-videos-and-more-wow-weekly",
+  "https://www.wowhead.com/news=383861/new-dungeon-set-transforms-players-into-an-ogre-in-wow-forever"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383859/secret-disguise-toy-found-wow-forever": "2026-11-13T09:40:12.254815-08:00",
-  "https://www.wowhead.com/news=383868/new-short-story-cost-of-honor-for-wow-forever": "2026-11-13T13:55:20.047030-08:00",
-  "https://www.wowhead.com/news=383869/the-wow-forever-podcast-a-new-short-story-this-week-s-videos-and-more-wow-weekly": "2026-11-13T13:55:20.047030-08:00",
   "https://www.wowhead.com/news=383873/skyborne-dont-have-reputation-discount-for-mounts-in-wow-forever": "2026-11-13T13:55:20.047030-08:00",
   "https://blizzardwatch.com/2026/11/13/gold-is-not-a-quest-reward-in-wow-forever-at-level-60-but-will-be-more-available-from-higher-level-quests/": "2026-11-13T13:55:20.047030-08:00",
   "https://www.wowhead.com/news=383849/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever": "2026-11-13T18:15:00.799771-08:00",
-  "https://www.wowhead.com/news=383861/new-dungeon-set-transforms-players-into-an-ogre-in-wow-forever": "2026-11-14T08:38:17.540915-08:00"
+  "https://www.wowhead.com/news=383883/dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-levels-above": "2026-11-14T23:45:52.499964-08:00"
  },
  "day": "2026-11-14",
- "posted_today": 2,
+ "posted_today": 3,
  "slots_used": [
   9,
-  14
+  14,
+  19
  ]
 }
