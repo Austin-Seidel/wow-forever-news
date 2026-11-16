@@ -134,11 +134,10 @@
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383879/an-old-sod-secret-has-new-rewards-in-wow-forever": "2026-11-15T12:19:24.859168-08:00",
-  "https://www.wowhead.com/news=383845/save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever": "2026-11-15T12:19:24.859168-08:00"
+  "https://www.wowhead.com/news=383845/save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever": "2026-11-15T12:19:24.859168-08:00",
+  "https://www.wowhead.com/news=383806/should-wow-forever-dungeons-let-players-complete-quests-in-one-run": "2026-11-16T08:03:51.605096-08:00"
  },
- "day": "2026-11-15",
- "posted_today": 1,
- "slots_used": [
-  9
- ]
+ "day": "2026-11-16",
+ "posted_today": 0,
+ "slots_used": []
 }
