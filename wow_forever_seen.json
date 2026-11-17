@@ -131,18 +131,20 @@
   "https://blizzardwatch.com/2026/11/13/gold-is-not-a-quest-reward-in-wow-forever-at-level-60-but-will-be-more-available-from-higher-level-quests/",
   "https://www.wowhead.com/news=383849/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever",
   "https://www.wowhead.com/news=383883/dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-levels-above",
-  "https://www.wowhead.com/news=383898/100-gold-per-hour-farm-nerfed-in-wow-forever"
+  "https://www.wowhead.com/news=383898/100-gold-per-hour-farm-nerfed-in-wow-forever",
+  "https://www.wowhead.com/news=383879/an-old-sod-secret-has-new-rewards-in-wow-forever",
+  "https://www.wowhead.com/news=383845/save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever",
+  "https://www.wowhead.com/news=383900/more-classes-quest-and-item-changes-wow-forever-hotfixes-for-november-16-2026"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383879/an-old-sod-secret-has-new-rewards-in-wow-forever": "2026-11-15T12:19:24.859168-08:00",
-  "https://www.wowhead.com/news=383845/save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever": "2026-11-15T12:19:24.859168-08:00",
   "https://www.wowhead.com/news=383806/should-wow-forever-dungeons-let-players-complete-quests-in-one-run": "2026-11-16T08:03:51.605096-08:00",
   "https://www.wowhead.com/news=383897/forever-101-blizzard-releases-new-player-overview-video-for-wow-forever": "2026-11-16T16:09:22.528416-08:00",
   "https://www.wowhead.com/news=383893/new-scarlet-monastery-hearthstone-in-wow-forever": "2026-11-16T16:09:22.528416-08:00"
  },
  "day": "2026-11-16",
- "posted_today": 1,
+ "posted_today": 2,
  "slots_used": [
-  9
+  9,
+  14
  ]
 }
