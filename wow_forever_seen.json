@@ -142,15 +142,23 @@
   "https://www.wowhead.com/news=383914/ubrs-damage-and-health-increases-and-shendralas-improvements-wow-forever",
   "https://www.wowhead.com/news=383893/new-scarlet-monastery-hearthstone-in-wow-forever",
   "https://www.wowhead.com/news=383906/many-players-are-very-upset-about-the-blackmaw-hold-gold-farm",
-  "https://www.wowhead.com/news=383912/wow-forever-continuing-to-break-records-with-over-15-million-characters-created"
+  "https://www.wowhead.com/news=383912/wow-forever-continuing-to-break-records-with-over-15-million-characters-created",
+  "https://www.wowhead.com/news=383896/earn-a-free-16-slot-bag-from-a-former-sod-questline-in-wow-forever"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383917/auction-house-minimum-deposit-reduced-to-1-copper-in-wow-forever": "2026-11-18T14:54:58.820186-08:00",
   "https://www.wowhead.com/news=383918/wow-forever-pvp-overview-video-honor-rewards-and-battlegrounds": "2026-11-18T14:54:58.820186-08:00",
   "https://www.wowhead.com/news=383919/weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow-forever": "2026-11-18T14:54:58.820186-08:00",
-  "https://www.wowhead.com/news=383924/turn-on-in-game-quest-objective-markers-for-easier-navigation-in-wow-forever": "2026-11-18T20:06:13.904977-08:00"
+  "https://www.wowhead.com/news=383924/turn-on-in-game-quest-objective-markers-for-easier-navigation-in-wow-forever": "2026-11-18T20:06:13.904977-08:00",
+  "https://www.wowhead.com/news=383902/tame-a-secret-hunter-pet-in-wow-forever": "2026-11-19T13:23:54.048874-08:00",
+  "https://www.wowhead.com/news=383926/wow-forever-podcast-episode-8-classes-itemization-and-bis": "2026-11-19T13:23:54.048874-08:00",
+  "https://www.wowhead.com/news=383927/zirene-teases-item-granting-bonus-stats-when-bags-are-full": "2026-11-19T13:23:54.048874-08:00",
+  "https://www.wowhead.com/news=383929/study-the-well-wow-forever-podcast-board-message-hints-at-new-brainteaser": "2026-11-19T13:23:54.048874-08:00",
+  "https://www.wowhead.com/news=383931/blizzard-wants-to-get-rid-of-bis-in-wow-forever": "2026-11-19T13:23:54.048874-08:00"
  },
  "day": "2026-11-19",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 1,
+ "slots_used": [
+  9
+ ]
 }
