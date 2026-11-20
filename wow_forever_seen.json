@@ -150,7 +150,8 @@
   "https://www.wowhead.com/news=383919/weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow-forever",
   "https://www.wowhead.com/news=383939/ret-paladin-bug-fix-and-seed-hybridizer-available-again-wow-forever-hotfixes-for",
   "https://www.wowhead.com/news=383924/turn-on-in-game-quest-objective-markers-for-easier-navigation-in-wow-forever",
-  "https://www.wowhead.com/news=383937/some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wow-forever"
+  "https://www.wowhead.com/news=383937/some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wow-forever",
+  "https://www.wowhead.com/news=383946/itemization-of-crafted-tier-sets-revealed-in-wow-forevers-first-raid-tier"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383902/tame-a-secret-hunter-pet-in-wow-forever": "2026-11-19T13:23:54.048874-08:00",
@@ -164,11 +165,13 @@
   "https://blizzardwatch.com/2026/11/20/how-to-earn-powerful-rewards-by-collecting-library-books-in-world-of-warcraft-forever/": "2026-11-20T10:46:17.611853-08:00",
   "https://www.wowhead.com/news=383933/every-quest-for-level-30-to-40-dungeons-in-wow-forever": "2026-11-20T10:46:17.611853-08:00",
   "https://www.wowhead.com/news=383890/unlock-a-dungeon-shortcut-in-wow-forever-with-the-compound-key": "2026-11-20T10:46:17.611853-08:00",
-  "https://www.wowhead.com/news=383944/wow-forever-class-design-patch-12-1-7-wow-anniversary-wow-weekly": "2026-11-20T10:46:17.611853-08:00"
+  "https://www.wowhead.com/news=383944/wow-forever-class-design-patch-12-1-7-wow-anniversary-wow-weekly": "2026-11-20T10:46:17.611853-08:00",
+  "https://www.wowhead.com/news=383943/layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in-wow": "2026-11-20T14:37:28.281166-08:00"
  },
  "day": "2026-11-20",
- "posted_today": 1,
+ "posted_today": 2,
  "slots_used": [
-  9
+  9,
+  14
  ]
 }
