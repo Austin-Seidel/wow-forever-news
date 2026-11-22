@@ -169,12 +169,10 @@
   "https://www.wowhead.com/news=383944/wow-forever-class-design-patch-12-1-7-wow-anniversary-wow-weekly",
   "https://www.wowhead.com/news=383934/all-quests-for-new-alcaz-prison-dungeon-in-wow-forever"
  ],
- "first_seen": {},
- "day": "2026-11-21",
- "posted_today": 3,
- "slots_used": [
-  9,
-  14,
-  19
- ]
+ "first_seen": {
+  "https://www.wowhead.com/news=383884/the-best-way-to-level-lockpicking-to-max-in-wow-forever": "2026-11-22T08:24:28.752707-08:00"
+ },
+ "day": "2026-11-22",
+ "posted_today": 0,
+ "slots_used": []
 }
