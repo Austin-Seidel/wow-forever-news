@@ -168,15 +168,16 @@
   "https://www.wowhead.com/news=383940/skyborne-now-get-reputation-discount-for-mounts-in-wow-forever-but-youll-need-a",
   "https://www.wowhead.com/news=383944/wow-forever-class-design-patch-12-1-7-wow-anniversary-wow-weekly",
   "https://www.wowhead.com/news=383934/all-quests-for-new-alcaz-prison-dungeon-in-wow-forever",
-  "https://www.wowhead.com/news=383954/world-buffs-removed-on-any-loading-screen-in-wow-forever"
+  "https://www.wowhead.com/news=383954/world-buffs-removed-on-any-loading-screen-in-wow-forever",
+  "https://www.wowhead.com/news=383956/players-can-no-longer-peek-inside-lockboxes-due-to-reroll-exploit"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383884/the-best-way-to-level-lockpicking-to-max-in-wow-forever": "2026-11-22T08:24:28.752707-08:00",
-  "https://www.wowhead.com/news=383956/players-can-no-longer-peek-inside-lockboxes-due-to-reroll-exploit": "2026-11-22T13:41:57.931146-08:00"
+  "https://www.wowhead.com/news=383884/the-best-way-to-level-lockpicking-to-max-in-wow-forever": "2026-11-22T08:24:28.752707-08:00"
  },
  "day": "2026-11-22",
- "posted_today": 1,
+ "posted_today": 2,
  "slots_used": [
-  9
+  9,
+  14
  ]
 }
