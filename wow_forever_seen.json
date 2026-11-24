@@ -173,12 +173,18 @@
   "https://www.wowhead.com/news=383967/world-buffs-now-persist-through-loading-screen-and-nerf-to-dire-maul-tribute",
   "https://www.wowhead.com/news=383963/blizzard-announces-lockbox-change-is-temporary-and-peeking-inside-lockboxes-will",
   "https://www.wowhead.com/news=383972/class-and-profession-bug-fixes-wow-forever-hotfixes-for-november-23-2026",
-  "https://www.wowhead.com/news=383884/the-best-way-to-level-lockpicking-to-max-in-wow-forever"
+  "https://www.wowhead.com/news=383884/the-best-way-to-level-lockpicking-to-max-in-wow-forever",
+  "https://blizzardwatch.com/2026/11/24/another-quick-world-of-warcraft-maintenance-day/"
  ],
  "first_seen": {
-  "https://www.wowhead.com/news=383969/players-reporting-that-sunder-armor-effects-dont-work-in-wow-forever-dungeons": "2026-11-23T18:51:36.548452-08:00"
+  "https://www.wowhead.com/news=383969/players-reporting-that-sunder-armor-effects-dont-work-in-wow-forever-dungeons": "2026-11-23T18:51:36.548452-08:00",
+  "https://www.wowhead.com/news=383961/all-tier-3-blueprint-sources-for-crafting-in-wow-forever": "2026-11-24T10:12:43.230325-08:00",
+  "https://blizzardwatch.com/2026/11/24/official-wow-forever-podcast-episode-8-discusses-class-changes-pvp-and-economy/": "2026-11-24T10:12:43.230325-08:00",
+  "https://www.wowhead.com/news=383980/watch-alaketh-rising-new-motion-comic-for-wow-forever": "2026-11-24T10:12:43.230325-08:00"
  },
  "day": "2026-11-24",
- "posted_today": 0,
- "slots_used": []
+ "posted_today": 1,
+ "slots_used": [
+  9
+ ]
 }
