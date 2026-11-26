@@ -176,7 +176,8 @@
   "https://www.wowhead.com/news=383884/the-best-way-to-level-lockpicking-to-max-in-wow-forever",
   "https://blizzardwatch.com/2026/11/24/another-quick-world-of-warcraft-maintenance-day/",
   "https://www.wowhead.com/news=383969/players-reporting-that-sunder-armor-effects-dont-work-in-wow-forever-dungeons",
-  "https://www.wowhead.com/news=383992/balance-druid-talent-changes-now-live-buffs-to-moonkin-form"
+  "https://www.wowhead.com/news=383992/balance-druid-talent-changes-now-live-buffs-to-moonkin-form",
+  "https://www.wowhead.com/news=384000/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november"
  ],
  "first_seen": {
   "https://www.wowhead.com/news=383961/all-tier-3-blueprint-sources-for-crafting-in-wow-forever": "2026-11-24T10:12:43.230325-08:00",
@@ -185,11 +186,14 @@
   "https://www.wowhead.com/news=383812/dawn-waker-secret-brings-players-to-a-cataclysm-boss-cameo-in-wow-forever": "2026-11-25T12:41:31.269603-08:00",
   "https://www.wowhead.com/news=383986/revelation-enchant-nerfed-in-wow-forever": "2026-11-25T12:41:31.269603-08:00",
   "https://www.wowhead.com/news=383988/players-can-once-again-use-night-watchmans-torch-while-mounted-in-wow-forever": "2026-11-25T12:41:31.269603-08:00",
-  "https://www.wowhead.com/news=383997/alterac-valley-zerg-strat-nerfed-in-wow-forever": "2026-11-25T12:41:31.269603-08:00"
+  "https://www.wowhead.com/news=383997/alterac-valley-zerg-strat-nerfed-in-wow-forever": "2026-11-25T12:41:31.269603-08:00",
+  "https://www.wowhead.com/news=383979/take-advantage-of-profession-cooldowns-for-goldmaking-in-wow-forever": "2026-11-25T16:11:24.289132-08:00",
+  "https://www.wowhead.com/news=383999/alterac-valley-reputation-increased-again-in-wow-forever": "2026-11-25T16:11:24.289132-08:00"
  },
  "day": "2026-11-25",
- "posted_today": 1,
+ "posted_today": 2,
  "slots_used": [
-  9
+  9,
+  14
  ]
 }
