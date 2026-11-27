@@ -185,15 +185,11 @@
   "https://www.wowhead.com/news=383997/alterac-valley-zerg-strat-nerfed-in-wow-forever",
   "https://www.wowhead.com/news=383988/players-can-once-again-use-night-watchmans-torch-while-mounted-in-wow-forever",
   "https://www.wowhead.com/news=383812/dawn-waker-secret-brings-players-to-a-cataclysm-boss-cameo-in-wow-forever",
-  "https://www.wowhead.com/news=383979/take-advantage-of-profession-cooldowns-for-goldmaking-in-wow-forever"
+  "https://www.wowhead.com/news=383979/take-advantage-of-profession-cooldowns-for-goldmaking-in-wow-forever",
+  "https://www.wowhead.com/news=383999/alterac-valley-reputation-increased-again-in-wow-forever"
  ],
- "first_seen": {
-  "https://www.wowhead.com/news=383999/alterac-valley-reputation-increased-again-in-wow-forever": "2026-11-25T16:11:24.289132-08:00"
- },
- "day": "2026-11-26",
- "posted_today": 2,
- "slots_used": [
-  9,
-  14
- ]
+ "first_seen": {},
+ "day": "2026-11-27",
+ "posted_today": 0,
+ "slots_used": []
 }
